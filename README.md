@@ -324,12 +324,12 @@ ORDER BY total_sales DESC;
 
 ### Pembagian Tugas
 
-| Nama | Role | Tanggung Jawab |
-|------|------|----------------|
-| **[Nama 1]** | Project Lead | Koordinasi & ETL Design |
-| **[Nama 2]** | Data Engineer | Pentaho ETL Implementation |
-| **[Nama 3]** | Database Admin | Database Design & Query |
-| **[Nama 4]** | Data Analyst | Dashboard & KPI Analysis |
+| Nama                      | Role           | Tanggung Jawab             |
+|-----------                |--------------- |----------------            |
+| **Achmad Maulana Hamzah** | Project Lead   | Koordinasi & ETL Design    |
+| **Gwido Putra Wijaya**    | Data Engineer  | Pentaho ETL Implementation |
+| **Stevan Zaky Setyanto**  | Database Admin | Database Design & Query    |
+| **Vemas Bagus Fermanda**  | Data Analyst   | Dashboard & KPI Analysis   |
 
 ---
 
