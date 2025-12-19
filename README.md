@@ -17,6 +17,7 @@
 
 ## 📋 Table of Contents
 
+- [Team Members](#-team-members)
 - [About Project](#-about-project)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -25,8 +26,49 @@
 - [Usage](#-usage)
 - [Query Examples](#-query-examples)
 - [KPI Dashboard](#-kpi-dashboard)
-- [Team Members](#-team-members)
 - [License](#-license)
+
+---
+
+## 👥 Team Members
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 1"/><br />
+      <sub><b>Achmad Maulana Hamzah</b></sub><br />
+      <sub>NIM: 2341720172</sub><br />
+      <a href="https://github.com/[username]">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 2"/><br />
+      <sub><b>Gwido Putra Wijaya</b></sub><br />
+      <sub>NIM: 2341720103</sub><br />
+      <a href="https://github.com/[username]">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 3"/><br />
+      <sub><b>Stevan Zaky Setyanto</b></sub><br />
+      <sub>NIM: 2341720101</sub><br />
+      <a href="https://github.com/[username]">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 4"/><br />
+      <sub><b>Vemas Bagus Fermanda</b></sub><br />
+      <sub>NIM: 2341720137</sub><br />
+      <a href="https://github.com/[username]">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+### Pembagian Tugas
+
+| Nama                      | Role           | Tanggung Jawab             |
+|-----------                |--------------- |----------------            |
+| **Achmad Maulana Hamzah** | Project Lead   | Koordinasi & ETL Design    |
+| **Gwido Putra Wijaya**    | Data Engineer  | Pentaho ETL Implementation |
+| **Stevan Zaky Setyanto**  | Database Admin | Database Design & Query    |
+| **Vemas Bagus Fermanda**  | Data Analyst   | Dashboard & KPI Analysis   |
 
 ---
 
@@ -288,48 +330,6 @@ ORDER BY total_sales DESC;
 **Access Dashboard:** [Google Looker Studio Link]
 
 *(Add screenshot of your dashboard here)*
-
----
-
-## 👥 Team Members
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 1"/><br />
-      <sub><b>Achmad Maulana Hamzah</b></sub><br />
-      <sub>NIM: 2341720172</sub><br />
-      <a href="https://github.com/[username]">GitHub</a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 2"/><br />
-      <sub><b>Gwido Putra Wijaya</b></sub><br />
-      <sub>NIM: 2341720103</sub><br />
-      <a href="https://github.com/[username]">GitHub</a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 3"/><br />
-      <sub><b>Stevan Zaky Setyanto</b></sub><br />
-      <sub>NIM: 2341720101</sub><br />
-      <a href="https://github.com/[username]">GitHub</a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 4"/><br />
-      <sub><b>Vemas Bagus Fermanda</b></sub><br />
-      <sub>NIM: 2341720137</sub><br />
-      <a href="https://github.com/[username]">GitHub</a>
-    </td>
-  </tr>
-</table>
-
-### Pembagian Tugas
-
-| Nama                      | Role           | Tanggung Jawab             |
-|-----------                |--------------- |----------------            |
-| **Achmad Maulana Hamzah** | Project Lead   | Koordinasi & ETL Design    |
-| **Gwido Putra Wijaya**    | Data Engineer  | Pentaho ETL Implementation |
-| **Stevan Zaky Setyanto**  | Database Admin | Database Design & Query    |
-| **Vemas Bagus Fermanda**  | Data Analyst   | Dashboard & KPI Analysis   |
 
 ---
 
