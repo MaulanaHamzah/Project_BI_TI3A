@@ -297,26 +297,26 @@ ORDER BY total_sales DESC;
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/100" width="100px;" alt="Member 1"/><br />
-      <sub><b>[Nama Anggota 1]</b></sub><br />
-      <sub>NIM: [NIM]</sub><br />
+      <sub><b>Achmad Maulana Hamzah</b></sub><br />
+      <sub>NIM: 2341720172</sub><br />
       <a href="https://github.com/[username]">GitHub</a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/100" width="100px;" alt="Member 2"/><br />
-      <sub><b>[Nama Anggota 2]</b></sub><br />
-      <sub>NIM: [NIM]</sub><br />
+      <sub><b>Gwido Putra Wijaya</b></sub><br />
+      <sub>NIM: 2341720103</sub><br />
       <a href="https://github.com/[username]">GitHub</a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/100" width="100px;" alt="Member 3"/><br />
-      <sub><b>[Nama Anggota 3]</b></sub><br />
-      <sub>NIM: [NIM]</sub><br />
+      <sub><b>Stevan Zaky Setyanto</b></sub><br />
+      <sub>NIM: 2341720101</sub><br />
       <a href="https://github.com/[username]">GitHub</a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/100" width="100px;" alt="Member 4"/><br />
-      <sub><b>[Nama Anggota 4]</b></sub><br />
-      <sub>NIM: [NIM]</sub><br />
+      <sub><b>Vemas Bagus Fermanda</b></sub><br />
+      <sub>NIM: 2341720137</sub><br />
       <a href="https://github.com/[username]">GitHub</a>
     </td>
   </tr>
